@@ -1,10 +1,10 @@
 //점수를 입력받아서 석차를 만드는 코드
 package JAVA002;
 import java.util.Scanner;
-
 public class kdooone1{
 	public static void main(String[] args) {
-		
+
+  
 		Scanner scanner = new Scanner(System.in);
 		String qwe = "yes";
 		boolean zxc;
