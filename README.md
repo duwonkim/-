@@ -1,4 +1,4 @@
-점수를 입력받아서 석차를 만드는 코드
+//점수를 입력받아서 석차를 만드는 코드
 package JAVA002;
 import java.util.Scanner;
 
@@ -22,9 +22,9 @@ public class kdooone1{
 			    continue; // 잘못된 입력을 받으면 반복문의 처음으로 돌아감
 			}
    
-       //입력받은 학생수로 행을 정의 한다 
+      	 //입력받은 학생수로 행을 정의 한다 
         //열의 크기 정의
- String[][] studentData = new String[abcd][8]; 
+ 	String[][] studentData = new String[abcd][8]; 
         
  		int cccc = 1;
         //여기서 정보들을 입력받아 저장한다
